@@ -1,4 +1,4 @@
-# PPDS - Activity 02 - Vacation Helper (ETL with Pandas + Data Cleaning)
+# PPDS - Activity 03 - Vacation Helper (ETL with Pandas + Data Cleaning)
 
 ## Description 
 
