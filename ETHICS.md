@@ -1,4 +1,4 @@
-"## Ethical Considerations for this project 
+## Ethical Considerations for this project 
 
 ## Purpose of Data Collection 
 
@@ -8,9 +8,9 @@ The data for this project is sourced from the Numbeo website for cost of living 
 
 1. This project adheres to the robots.txt file of the Numbeo website, which disallows heavy scraping. 
 
-2. To Acknowledge and comply with Booking.com API’s request limit of 500 requests per user per month, avoiding any potential abuse of their services.
+2. To acknowledge and comply with Booking.com API’s request limit of 500 requests per user per month, avoiding any potential abuse of their services.
 
-3. BE Respectful of the website's privacy policy by not collecting any user data and not attempting to bypass the password protection. 
+3. Be respectful of the website's privacy policy by not collecting any user data and not attempting to bypass the password protection. 
 
 ## Data Usage 
 
@@ -18,4 +18,4 @@ The data collected in this project is used for educational purposes only. If any
 
 ## Note 
 
-While running this project, please respect the website policy and follow the collection practices outlined above to ensure ethical data collection and web scraping. For any questions or concerns regarding the ethical considerations of this project, please feel free to reach out! " refine 
+While running this project, please respect the website policy and follow the collection practices outlined above to ensure ethical data collection and web scraping. For any questions or concerns regarding the ethical considerations of this project, please feel free to reach out! 
